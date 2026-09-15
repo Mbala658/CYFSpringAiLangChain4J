@@ -8,3 +8,8 @@ Hello there! This repository contains the code and presentation slides for "Choo
 > Pulled from the DevNexus website itself
 
 As AI capabilities continue to integrate into modern enterprise applications, developers are seeking robust frameworks to streamline the interaction between large language models and Java-based systems. This talk offers some juxtaposition of Langchain4j and Spring AI, two emerging frameworks designed to simplify LLM integration in Java applications. We explore their core architectures, design philosophies, ease of use, extensibility, and integration with external services such as OpenAI, Azure AI, and vector stores. By highlighting key differences, we aim to provide practical insights into selecting the right tool for specific use cases. Whether you are building conversational agents, semantic search systems, or AI-driven automation, this session will help clarify which framework best aligns with your technical needs and development workflow.
+
+## Contents
+- l4jdemo: contains the demo code used for the LangChain4J portion of the talk
+- springaidemo: contains the demo code used for the SpringAI portion of the talk (will be added soon)
+  
